@@ -35,7 +35,7 @@
     ],
     "objectives": [
       {
-        "type": "SectorCompleted",
+        "type": "SectorComplete",
         "preset": "81m-0-safeZone"
       }
     ]

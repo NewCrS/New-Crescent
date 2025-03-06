@@ -27,7 +27,7 @@
     ],
     "objectives": [
       {
-        "type": "SectorComlete",
+        "type": "SectorComplete",
         "preset": "CrS"
       }
     ]
