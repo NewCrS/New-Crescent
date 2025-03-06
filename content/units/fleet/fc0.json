@@ -268,7 +268,7 @@
         },
         "smokeEffect": "none",
         "hitColor": "80CCFF",
-        "despawnSound": "spark",
+        "despawnSound": "none",
         "trailEffect": {
           "type": "multiEffect",
           "effects": [        
@@ -391,7 +391,7 @@
         },
         "smokeEffect": "none",
         "hitColor": "80CCFF",
-        "despawnSound": "spark",
+        "despawnSound": "none",
         "trailEffect": {
           "type": "multiEffect",
           "effects": [        

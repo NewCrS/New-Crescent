@@ -43,7 +43,7 @@
                 "type": "ExplosionBulletType",
                 "damage": 1200,
                 "hitColor": "80808080",
-                "shootEffect": "massiveExplosion",
+                "shootEffect": "shootBig",
                 "collidesAir": false,
                 "collidesGround": false,
                 "buildingDamageMultiplier": 0.1,

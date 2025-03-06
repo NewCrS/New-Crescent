@@ -2,7 +2,6 @@
   "type":"flying",
   // "name": "fighter",
   // "description": "A new fighter with minigun and homing missile",
-  "template": "SerpuloUnitType",
   "flying": true,
   "speed": 2,
   "drag": 0.1,
