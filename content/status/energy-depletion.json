@@ -1,0 +1,9 @@
+{
+    "name": "Energy Depletion",
+    "color": "fed480",
+    "damage": 1,
+    "effect": "mineSmall",
+    "effectChance": 0.05,
+    "outline": true, 
+    "show": true
+}
