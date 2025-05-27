@@ -1977,7 +1977,7 @@
       "radiusTo": 0,
       "haloRotation": 236,
       "haloRotateSpeed": 1.2,
-      "haloRadius": 10
+      "haloRadius" : 10
     }
   ]
 }
