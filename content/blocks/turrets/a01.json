@@ -28,7 +28,7 @@
       "type": "basicBulletType",
       "speed": 4,
       "lifetime": 50,
-      "damage": 140,
+      "damage": 24,
       "killShooter": false, 
       "keepVelocity": false,
       "collidesAir": true,
@@ -43,7 +43,7 @@
       "type": "basicBulletType",
       "speed": 4,
       "lifetime": 58,
-      "damage": 180,
+      "damage": 32,
       "killShooter": false, 
       "keepVelocity": false,
       "collidesAir": true,
@@ -55,7 +55,7 @@
       "ammoMultiplier": 5
     }
   },
-
+  "inaccuracy": 8,
   "coolantMultiplier": 1.8,
   "consumes": {
     "coolant": {
@@ -63,17 +63,14 @@
       "optional": true
     }
   },
-
+  "velocityRnd":0.18,
   "requirements": [
     "00/50"
   ],
-
   "shoot": {
-   "firstShotDelay": 0,
-   "shots": 1,
-   "shotDelay": 0
+    "shots": 8,
+    "shotDelay": 0
   },
-
   "category": "turret",
   "rotateSpeed": 8,
   "shootCone": 8.1,
